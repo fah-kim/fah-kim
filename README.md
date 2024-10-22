@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fah-kim
-- 👀 I’m interested in Computer
+# **Hi, I’m @fah-kim**
+- 👀 I’m interested in **Computer**
 - 🌱 I’m currently learning whatever
-- 📫 How to reach me in email fahrishakim4646@gmail.com
+- 📫 How to reach me in [email](fahrishakim4646@gmail.com) or [Instagram](https://www.instagram.com/fahrishakim/)
 - 😄 Pronouns: he/him
 
 <!---
